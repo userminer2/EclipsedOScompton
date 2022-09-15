@@ -10,7 +10,7 @@ EclipsedOScompton is a linux distro made to run on even lower end devices than E
 
 If you want to test the latest version please feel free to download the image file here (Currently EclipsedOScompton 1.1b03):
     
-https://drive.google.com/file/d/1BiwfYoTm4Dfz1ZHuhYTIB3Sm0_-L8u_y/view
+
 
 If you want the latest stable version you can get it here (currently EclipsedOS 1.0):
 
@@ -35,11 +35,15 @@ EclipsedOS 1.1b01 -> EclipsedOScompton 1.1b02
 
 Changed the compositor to compton.
 
+Version history:
+
+EclipsedOSlite 1.1rc1
+
 EclipsedOScompton 1.1b03:
 https://drive.google.com/file/d/1BiwfYoTm4Dfz1ZHuhYTIB3Sm0_-L8u_y/view
 
 EclipsedOScompton 1.1b02:
-https://drive.google.com/file/d/1BiwfYoTm4Dfz1ZHuhYTIB3Sm0_-L8u_y/view
+https://drive.google.com/file/d/1rZccY5cX-ytXADiCvEy3RoyogdCl7GT5/view
 
 EclipsedOScompton 1.1b02:
 https://drive.google.com/file/d/1rZccY5cX-ytXADiCvEy3RoyogdCl7GT5/view
