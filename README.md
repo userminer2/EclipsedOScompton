@@ -1,4 +1,4 @@
-# **About EclipsedOScompton:**
+# **About EclipsedOScompton(Lite):**
 
 
 EclipsedOScompton is a linux distro made to run on even lower end devices than EclipsedOS.
