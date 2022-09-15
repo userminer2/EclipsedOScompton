@@ -18,9 +18,14 @@ https://drive.google.com/file/d/1YI1HPolY_FQyOq5r0fA1uTiayqX_bzmC/view
 
 # Known issues:
 
+    -Some customisation is impossible due to lack of compositor being enabled(compton acts as a compositor).
     -A graghical bug(unfixable at least for now) to do with alt + tab where there are no extra effects.
 
 # Changelog:
+
+EclipsedOScompton 1.1b03 -> EclipsedOSlite 1.1rc1
+
+Fixed the keyboard layout to a qwerty keyboard and language settings.
 
 EclipsedOScompton 1.1b02 -> EclipsedOScompton 1.1b03
 
@@ -29,6 +34,9 @@ Made compton start on startup.
 EclipsedOS 1.1b01 -> EclipsedOScompton 1.1b02
 
 Changed the compositor to compton.
+
+EclipsedOScompton 1.1b03:
+https://drive.google.com/file/d/1BiwfYoTm4Dfz1ZHuhYTIB3Sm0_-L8u_y/view
 
 EclipsedOScompton 1.1b02:
 https://drive.google.com/file/d/1BiwfYoTm4Dfz1ZHuhYTIB3Sm0_-L8u_y/view
