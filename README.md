@@ -8,9 +8,9 @@ EclipsedOScompton is a linux distro made to run on even lower end devices than E
     (if there is a question mark in front of a known issue then it has not been confirmed yet).
     (Chromebook support is not guarenteed).
 
-If you want to test the latest version please feel free to download the image file here (Currently EclipsedOScompton 1.1b03):
+If you want to test the latest version please feel free to download the image file here (Currently EclipsedOScompton 1.1rc2):
     
-https://drive.google.com/file/d/1EygAc5_m7J5JCNy9MK46CJugupO-emGQ/view
+https://drive.google.com/file/d/1HezvVmK3Ewzh-BAhF6BQa4hIwpSKAFLG/view
 
 If you want the latest stable version you can get it here (currently EclipsedOS 1.0):
 
@@ -22,6 +22,11 @@ https://drive.google.com/file/d/1YI1HPolY_FQyOq5r0fA1uTiayqX_bzmC/view
     -A graghical bug(unfixable at least for now) to do with alt + tab where there are no extra effects.
 
 # Changelog:
+
+EclipsedOSlite 1.1rc1 -> EclipsedOSlite 1.1rc2
+
+Changed keyboard layout to be uk chromebook.
+.basrc is not updated yet.
 
 EclipsedOScompton 1.1b03 -> EclipsedOSlite 1.1rc1
 
@@ -36,6 +41,8 @@ EclipsedOS 1.1b01 -> EclipsedOScompton 1.1b02
 Changed the compositor to compton.
 
 Version history:
+EclipsedOSlite 1.1rc2
+https://drive.google.com/file/d/1HezvVmK3Ewzh-BAhF6BQa4hIwpSKAFLG/view
 
 EclipsedOSlite 1.1rc1
 https://drive.google.com/file/d/1EygAc5_m7J5JCNy9MK46CJugupO-emGQ/view
