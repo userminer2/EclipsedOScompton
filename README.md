@@ -10,11 +10,11 @@ EclipsedOScompton is a linux distro made to run on even lower end devices than E
 
 If you want to test the latest version please feel free to download the image file here (Currently EclipsedOScompton 1.1rc2):
     
-https://drive.google.com/file/d/1HezvVmK3Ewzh-BAhF6BQa4hIwpSKAFLG/view
+https://drive.google.com/file/d/1wmb0tuYOPmC_Cr_kg_Mwy06vLUUz5Etc/view
 
-If you want the latest stable version you can get it here (currently EclipsedOS 1.0):
+If you want the latest stable version you can get it here (currently EclipsedOS 1.1 lite):
 
-https://drive.google.com/file/d/1YI1HPolY_FQyOq5r0fA1uTiayqX_bzmC/view
+https://drive.google.com/file/d/1wmb0tuYOPmC_Cr_kg_Mwy06vLUUz5Etc/view
 
 # Known issues:
 
@@ -22,6 +22,10 @@ https://drive.google.com/file/d/1YI1HPolY_FQyOq5r0fA1uTiayqX_bzmC/view
     -A graghical bug(unfixable at least for now) to do with alt + tab where there are no extra effects.
 
 # Changelog:
+
+EclipsedOSlite 1.1rc2 -> EclipsedOSlite 1.1
+
+Nothing much just updated ".basrc".
 
 EclipsedOSlite 1.1rc1 -> EclipsedOSlite 1.1rc2
 
