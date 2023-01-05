@@ -8,13 +8,13 @@ EclipsedOScompton is a linux distro made to run on even lower end devices than E
     (if there is a question mark in front of a known issue then it has not been confirmed yet).
     (Chromebook support is not guarenteed).
 
-If you want to test the latest version please feel free to download the image file here (Currently EclipsedOScompton 1.1rc2):
+If you want to test the latest version please feel free to download the image file here (Currently EclipsedOScompton 1.2):
     
-https://drive.google.com/file/d/1wmb0tuYOPmC_Cr_kg_Mwy06vLUUz5Etc/view
+https://drive.google.com/file/d/1l_60b84anrL6rh0EhSr6H9yXPCBuxkaT/view
 
-If you want the latest stable version you can get it here (currently EclipsedOS 1.1 lite):
+If you want the latest stable version you can get it here (currently EclipsedOS 1.2 lite):
 
-https://drive.google.com/file/d/1wmb0tuYOPmC_Cr_kg_Mwy06vLUUz5Etc/view
+https://drive.google.com/file/d/1l_60b84anrL6rh0EhSr6H9yXPCBuxkaT/view
 
 # Known issues:
 
@@ -22,6 +22,10 @@ https://drive.google.com/file/d/1wmb0tuYOPmC_Cr_kg_Mwy06vLUUz5Etc/view
     -A graghical bug(unfixable at least for now) to do with alt + tab where there are no extra effects.
 
 # Changelog:
+
+EclipsedOSlite 1.1 -> 1.2:
+
+Replaced the task manager and changed a few packages.
 
 EclipsedOSlite 1.1rc2 -> EclipsedOSlite 1.1
 
@@ -45,6 +49,9 @@ EclipsedOS 1.1b01 -> EclipsedOScompton 1.1b02
 Changed the compositor to compton.
 
 Version history:
+EclipsedOSlite 1.2
+https://drive.google.com/file/d/1l_60b84anrL6rh0EhSr6H9yXPCBuxkaT/view
+
 EclipsedOSlite 1.1rc2
 https://drive.google.com/file/d/1HezvVmK3Ewzh-BAhF6BQa4hIwpSKAFLG/view
 
